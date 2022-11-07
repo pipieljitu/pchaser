@@ -1,0 +1,4 @@
+#instalasi on linux
+1. buka terminal
+2. ketik "git clone https://github.com/pipieljitu/pchaser.git"
+3. ketik "python3 P-CHASER.py"
